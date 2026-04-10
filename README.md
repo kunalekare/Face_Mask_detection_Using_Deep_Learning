@@ -5,8 +5,12 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Ready-F9AB00.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)
 
-# Video Link of my Project![Datasets](https://drive.google.com/drive/folders/1St8qte5yzXTzy08rK7i-0tchLCwp5rGw?usp=sharing)
-# Datasets Link: ![Datasets](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+# 🎥 Video Link of my Project
+
+👉 [Click here to view project files and videos](https://drive.google.com/drive/folders/1St8qte5yzXTzy08rK7i-0tchLCwp5rGw?usp=sharing)
+
+# Datasets Link:
+[Datasets](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 ## 📌 Overview
 **MaskNet** is a deep learning computer vision project that classifies whether a person in an image is wearing a face mask or not. Built entirely in Google Colab, this project utilizes **Transfer Learning** via the **MobileNetV2** architecture to achieve high accuracy with minimal computational overhead. 
