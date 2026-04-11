@@ -7,11 +7,11 @@
 
 # 🎥 Video Link of Face Mask Detection using Deep Learning.
 
-👉 [Click here to view project files and videos](https://drive.google.com/drive/folders/1St8qte5yzXTzy08rK7i-0tchLCwp5rGw?usp=sharing)
+👉 [Click here to view videos](https://drive.google.com/drive/folders/1St8qte5yzXTzy08rK7i-0tchLCwp5rGw?usp=sharing)
 
 # 🎥 Video Link of Guided Project video
 
-👉 [Click here to view project files and videos](https://drive.google.com/drive/folders/1CAX_nPGiJ13-EnqBSA5_KPilmcDwVUqd?usp=sharing)
+👉 [Click here to view videos](https://drive.google.com/drive/folders/1CAX_nPGiJ13-EnqBSA5_KPilmcDwVUqd?usp=sharing)
 
 # Datasets Link:
 [Datasets](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
