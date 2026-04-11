@@ -5,9 +5,13 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Ready-F9AB00.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)
 
-# 🎥 Video Link of my Project
+# 🎥 Video Link of Face Mask Detection using Deep Learning.
 
 👉 [Click here to view project files and videos](https://drive.google.com/drive/folders/1St8qte5yzXTzy08rK7i-0tchLCwp5rGw?usp=sharing)
+
+# 🎥 Video Link of Guided Project video
+
+👉 [Click here to view project files and videos](https://drive.google.com/drive/folders/1CAX_nPGiJ13-EnqBSA5_KPilmcDwVUqd?usp=sharing)
 
 # Datasets Link:
 [Datasets](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
